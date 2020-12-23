@@ -21,6 +21,4 @@ function YourFunctionNameHere(val) {
   })
   return answer
 }
-fdgsdg
-againsdf
-test
+testing
